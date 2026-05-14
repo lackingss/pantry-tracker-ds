@@ -4,4 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/
 *.db
-.DS_Store
+venv/
